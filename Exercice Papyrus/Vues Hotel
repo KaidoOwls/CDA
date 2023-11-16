@@ -67,3 +67,6 @@ END //
 
 DELIMITER ;
 
+CALL Lst_fournis();
+
+procédures stockées param
